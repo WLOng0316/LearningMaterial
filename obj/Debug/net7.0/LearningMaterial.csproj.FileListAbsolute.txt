@@ -1,0 +1,15 @@
+C:\Users\ongwe\Documents\LearningMaterial\bin\Debug\net7.0\LearningMaterial.exe
+C:\Users\ongwe\Documents\LearningMaterial\bin\Debug\net7.0\LearningMaterial.deps.json
+C:\Users\ongwe\Documents\LearningMaterial\bin\Debug\net7.0\LearningMaterial.runtimeconfig.json
+C:\Users\ongwe\Documents\LearningMaterial\bin\Debug\net7.0\LearningMaterial.dll
+C:\Users\ongwe\Documents\LearningMaterial\bin\Debug\net7.0\LearningMaterial.pdb
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.csproj.AssemblyReference.cache
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.AssemblyInfoInputs.cache
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.AssemblyInfo.cs
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.csproj.CoreCompileInputs.cache
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.dll
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\refint\LearningMaterial.dll
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.pdb
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\LearningMaterial.genruntimeconfig.cache
+C:\Users\ongwe\Documents\LearningMaterial\obj\Debug\net7.0\ref\LearningMaterial.dll

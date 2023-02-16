@@ -1,20 +1,21 @@
-﻿internal class Program
+﻿
+using System;
+
+namespace MyApplication
 {
-    private static void Main(string[] args)
+  class Program
+  {
+    static void Main(string[] args)
     {
-        Console.Write("Hello, World!");
-        Console.WriteLine("This is a new sentence");
+      // Type your username and press enter
+      Console.WriteLine("Enter username:");
 
-       /* string userName;
+      // Create a string variable and get user input from the keyboard and store it in the variable
+      string userName = Console.ReadLine();
 
-        Console.WriteLine("Enter username: ");
-        userName = Console.ReadLine();
-        Console.WriteLine("Username is " + userName);*/
-
-        Console.WriteLine("Enter username: ");
-        string userName = Console.ReadLine();
-        object value = Console.WriteLine("Username is " + userName);
-
-        
+      // Print the value of the variable (userName), which will display the input value
+      Console.WriteLine("Username is: " + userName);
     }
+  }
 }
+
