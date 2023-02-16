@@ -7,6 +7,7 @@ namespace MyApplication
   {
     static void Main(string[] args)
     {
+      try{
       // Type your username and press enter
       Console.WriteLine("Enter username:");
 
@@ -15,6 +16,11 @@ namespace MyApplication
 
       // Print the value of the variable (userName), which will display the input value
       Console.WriteLine("Username is: " + userName);
+      }
+
+      catch(Exception e) {
+        Console.WriteLine(e.Message);
+      }
     }
   }
 }
